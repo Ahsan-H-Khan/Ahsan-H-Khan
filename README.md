@@ -1,7 +1,7 @@
 🚀 Mechatronics & Robotics Enthusiast | AI & Automation | Software Developer </br>
 🤖 Passionate about robotics, automation, and embedded systems </br>
 ⚡ Always exploring machine learning, control systems, and software development </br>
-💡 Learning & building cool projects—one line of code at a time! </br>
+💡 Learning & building cool projects....one line of code at a time! </br>
 
 
 
