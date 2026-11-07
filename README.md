@@ -1,7 +1,7 @@
 Mechatronics and Mechanical Engineer by occupation, a mathematician by night. </br>
 🚀 Robotics Enthusiast | AI & Automation | Control systems enjoyer </br>
 🤖 Passionate about robotics, controls, and embedded systems </br>
-⚡ Always exploring machine learning, control systems, and software development </br>
+⚡ Always exploring machine learning, control systems, and computer networking </br>
 💡 Always learning Pure mathematics! </br>
 
 # 💻 Tech Stack:
